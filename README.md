@@ -14,6 +14,7 @@ cd ./sample-web
 
 # 安裝 angular
 npm install -g @angular/cli
+(如果是 macOS 環境，可能需要使用 sudo npm install -g @angular/cli 命令才能成功安裝。)
 
 # 安裝相依套件
 npm install
